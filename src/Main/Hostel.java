@@ -54,7 +54,7 @@ public class Hostel {
                 break;
                 case 4:{
                     System.out.println("Thank you for Using!!!");
-                    System.out.println("Namaha Shivaya!!!");
+                    System.out.println("Namah Shivaya!!!");
                     System.exit(0);
                    break;
                 }
